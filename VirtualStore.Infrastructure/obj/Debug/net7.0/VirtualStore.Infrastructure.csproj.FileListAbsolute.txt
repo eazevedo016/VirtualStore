@@ -1,0 +1,17 @@
+C:\Estudo\crud-wake\VirtualStore.Infrastructure\bin\Debug\net7.0\VirtualStore.Infrastructure.deps.json
+C:\Estudo\crud-wake\VirtualStore.Infrastructure\bin\Debug\net7.0\VirtualStore.Infrastructure.runtimeconfig.json
+C:\Estudo\crud-wake\VirtualStore.Infrastructure\bin\Debug\net7.0\VirtualStore.Infrastructure.dll
+C:\Estudo\crud-wake\VirtualStore.Infrastructure\bin\Debug\net7.0\VirtualStore.Infrastructure.pdb
+C:\Estudo\crud-wake\VirtualStore.Infrastructure\bin\Debug\net7.0\VirtualStore.Domain.dll
+C:\Estudo\crud-wake\VirtualStore.Infrastructure\bin\Debug\net7.0\VirtualStore.Domain.pdb
+C:\Estudo\crud-wake\VirtualStore.Infrastructure\obj\Debug\net7.0\VirtualStore.Infrastructure.csproj.AssemblyReference.cache
+C:\Estudo\crud-wake\VirtualStore.Infrastructure\obj\Debug\net7.0\VirtualStore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo\crud-wake\VirtualStore.Infrastructure\obj\Debug\net7.0\VirtualStore.Infrastructure.AssemblyInfoInputs.cache
+C:\Estudo\crud-wake\VirtualStore.Infrastructure\obj\Debug\net7.0\VirtualStore.Infrastructure.AssemblyInfo.cs
+C:\Estudo\crud-wake\VirtualStore.Infrastructure\obj\Debug\net7.0\VirtualStore.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Estudo\crud-wake\VirtualStore.Infrastructure\obj\Debug\net7.0\VirtualS.8900EE4A.Up2Date
+C:\Estudo\crud-wake\VirtualStore.Infrastructure\obj\Debug\net7.0\VirtualStore.Infrastructure.dll
+C:\Estudo\crud-wake\VirtualStore.Infrastructure\obj\Debug\net7.0\refint\VirtualStore.Infrastructure.dll
+C:\Estudo\crud-wake\VirtualStore.Infrastructure\obj\Debug\net7.0\VirtualStore.Infrastructure.pdb
+C:\Estudo\crud-wake\VirtualStore.Infrastructure\obj\Debug\net7.0\VirtualStore.Infrastructure.genruntimeconfig.cache
+C:\Estudo\crud-wake\VirtualStore.Infrastructure\obj\Debug\net7.0\ref\VirtualStore.Infrastructure.dll

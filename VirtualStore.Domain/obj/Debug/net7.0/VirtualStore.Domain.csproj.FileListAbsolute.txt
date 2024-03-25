@@ -1,0 +1,11 @@
+C:\Estudo\crud-wake\VirtualStore.Domain\bin\Debug\net7.0\VirtualStore.Domain.deps.json
+C:\Estudo\crud-wake\VirtualStore.Domain\bin\Debug\net7.0\VirtualStore.Domain.dll
+C:\Estudo\crud-wake\VirtualStore.Domain\bin\Debug\net7.0\VirtualStore.Domain.pdb
+C:\Estudo\crud-wake\VirtualStore.Domain\obj\Debug\net7.0\VirtualStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo\crud-wake\VirtualStore.Domain\obj\Debug\net7.0\VirtualStore.Domain.AssemblyInfoInputs.cache
+C:\Estudo\crud-wake\VirtualStore.Domain\obj\Debug\net7.0\VirtualStore.Domain.AssemblyInfo.cs
+C:\Estudo\crud-wake\VirtualStore.Domain\obj\Debug\net7.0\VirtualStore.Domain.csproj.CoreCompileInputs.cache
+C:\Estudo\crud-wake\VirtualStore.Domain\obj\Debug\net7.0\VirtualStore.Domain.dll
+C:\Estudo\crud-wake\VirtualStore.Domain\obj\Debug\net7.0\refint\VirtualStore.Domain.dll
+C:\Estudo\crud-wake\VirtualStore.Domain\obj\Debug\net7.0\VirtualStore.Domain.pdb
+C:\Estudo\crud-wake\VirtualStore.Domain\obj\Debug\net7.0\ref\VirtualStore.Domain.dll
