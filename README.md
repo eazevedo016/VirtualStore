@@ -28,15 +28,23 @@ A aplicação foi desenvolvida em 6 camadas:
 
 ## Requisitos para executar a aplicação
 
+- Para clonar este repositório, execute o seguinte comando em seu terminal:
 
-- docker run -d -p 8080:80 --name VirtuSotoreContainer VirtualStore
+```
+git clone https://github.com/eazevedo016/VirtualStore.git
+```
+
+- Após o clone, abra com uma IDE de sua preferência o arquivo de extensão ".sln", que representa a solution da aplicação.
+
+- Execute a aplicação pela IDE e o swagger irá abrir automaticamente.
 
 
 ## Visão do CRUD
+
 A documentação da API foi consolidada utilizando o Swagger. Através dele é possível testar quaisquer métodos que a API expõe. 
 
-Acesse o Swagger pela URL https://localhost:7020/swagger/index.html.
 
-![image](https://github.com/eazevedo016/VirtualStore/assets/75282286/8d7c79e1-2e81-4f27-ab51-3e01ff8534c4)
+![image](https://github.com/eazevedo016/VirtualStore/assets/75282286/551eff95-f7c1-49d0-82dc-dec6ef581e2f)
+
 
 
