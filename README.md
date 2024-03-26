@@ -28,6 +28,8 @@ A aplicação foi desenvolvida em 6 camadas:
 
 ## Requisitos para executar a aplicação
 
+- Certifique-se de ter a SDK7 instalado na sua máquina. Caso queira fazer o download, acesse o link https://dotnet.microsoft.com/pt-br/download/dotnet/7.0 .
+
 - Para clonar este repositório, execute o seguinte comando em seu terminal:
 
 ```
@@ -36,7 +38,19 @@ git clone https://github.com/eazevedo016/VirtualStore.git
 
 - Após o clone, abra com uma IDE de sua preferência o arquivo de extensão ".sln", que representa a solution da aplicação.
 
-- Execute a aplicação pela IDE e o swagger irá abrir automaticamente.
+- Pelo terminal, navegue até a pasta \VirtualStore.API e após isso execute o seguinte comando para buildar o projeto.
+
+```
+dotnet build
+```
+
+- Após a finalização do build, execute o comando de start do projeto.
+
+```
+dotnet run
+```
+
+
 
 
 ## Visão do CRUD
