@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VirtualStore.IntegrationTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ac556b93f6411a42c71ca914fef5e8e3603f0b7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c3f5ad4f135f28075668bf76fa1b92ca6755c35")]
 [assembly: System.Reflection.AssemblyProductAttribute("VirtualStore.IntegrationTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VirtualStore.IntegrationTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
