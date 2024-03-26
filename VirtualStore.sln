@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirtualStore.Domain", "Virt
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirtualStore.Infrastructure", "VirtualStore.Infrastructure\VirtualStore.Infrastructure.csproj", "{04B5A9FB-E5D1-4FF1-BF05-068C66F4B71B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirtualStore.Tests", "TestProject1\VirtualStore.Tests.csproj", "{D47D4B56-32E1-430C-B5A4-421A505F915E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirtualStore.UnitTests", "TestProject1\VirtualStore.UnitTests.csproj", "{D47D4B56-32E1-430C-B5A4-421A505F915E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualStore.IntegrationTests", "VirtualStore.IntegrationTests\VirtualStore.IntegrationTests.csproj", "{8258DDCC-69CD-47B0-AEC2-13294DD61AD9}"
 EndProject

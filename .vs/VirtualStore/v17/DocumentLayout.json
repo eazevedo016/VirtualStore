@@ -3,32 +3,40 @@
   "WorkspaceRootPath": "C:\\Estudo\\crud-wake\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8258DDCC-69CD-47B0-AEC2-13294DD61AD9}|VirtualStore.IntegrationTests\\VirtualStore.IntegrationTests.csproj|c:\\estudo\\crud-wake\\virtualstore.integrationtests\\tests\\produtotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8258DDCC-69CD-47B0-AEC2-13294DD61AD9}|VirtualStore.IntegrationTests\\VirtualStore.IntegrationTests.csproj|solutionrelative:virtualstore.integrationtests\\tests\\produtotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C33ACAA2-DF76-4699-9964-FD9791A0BD30}|VirtualStore.API\\VirtualStore.API.csproj|c:\\estudo\\crud-wake\\virtualstore.api\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C33ACAA2-DF76-4699-9964-FD9791A0BD30}|VirtualStore.API\\VirtualStore.API.csproj|solutionrelative:virtualstore.api\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C33ACAA2-DF76-4699-9964-FD9791A0BD30}|VirtualStore.API\\VirtualStore.API.csproj|c:\\estudo\\crud-wake\\virtualstore.api\\virtualstore.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C33ACAA2-DF76-4699-9964-FD9791A0BD30}|VirtualStore.API\\VirtualStore.API.csproj|solutionrelative:virtualstore.api\\virtualstore.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8258DDCC-69CD-47B0-AEC2-13294DD61AD9}|VirtualStore.IntegrationTests\\VirtualStore.IntegrationTests.csproj|c:\\estudo\\crud-wake\\virtualstore.integrationtests\\base\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8258DDCC-69CD-47B0-AEC2-13294DD61AD9}|VirtualStore.IntegrationTests\\VirtualStore.IntegrationTests.csproj|solutionrelative:virtualstore.integrationtests\\base\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8258DDCC-69CD-47B0-AEC2-13294DD61AD9}|VirtualStore.IntegrationTests\\VirtualStore.IntegrationTests.csproj|c:\\estudo\\crud-wake\\virtualstore.integrationtests\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8258DDCC-69CD-47B0-AEC2-13294DD61AD9}|VirtualStore.IntegrationTests\\VirtualStore.IntegrationTests.csproj|solutionrelative:virtualstore.integrationtests\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Estudo\\crud-wake\\TestProject1\\VirtualStoreServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TestProject1\\VirtualStoreServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8258DDCC-69CD-47B0-AEC2-13294DD61AD9}|VirtualStore.IntegrationTests\\VirtualStore.IntegrationTests.csproj|c:\\estudo\\crud-wake\\virtualstore.integrationtests\\virtualstore.integrationtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{8258DDCC-69CD-47B0-AEC2-13294DD61AD9}|VirtualStore.IntegrationTests\\VirtualStore.IntegrationTests.csproj|solutionrelative:virtualstore.integrationtests\\virtualstore.integrationtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D47D4B56-32E1-430C-B5A4-421A505F915E}|TestProject1\\VirtualStore.Tests.csproj|c:\\estudo\\crud-wake\\testproject1\\virtualstoreservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D47D4B56-32E1-430C-B5A4-421A505F915E}|TestProject1\\VirtualStore.Tests.csproj|solutionrelative:testproject1\\virtualstoreservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{04B5A9FB-E5D1-4FF1-BF05-068C66F4B71B}|VirtualStore.Infrastructure\\VirtualStore.Infrastructure.csproj|c:\\estudo\\crud-wake\\virtualstore.infrastructure\\virtualstore.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{04B5A9FB-E5D1-4FF1-BF05-068C66F4B71B}|VirtualStore.Infrastructure\\VirtualStore.Infrastructure.csproj|solutionrelative:virtualstore.infrastructure\\virtualstore.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33ACAA2-DF76-4699-9964-FD9791A0BD30}|VirtualStore.API\\VirtualStore.API.csproj|c:\\estudo\\crud-wake\\virtualstore.api\\virtualstore.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C33ACAA2-DF76-4699-9964-FD9791A0BD30}|VirtualStore.API\\VirtualStore.API.csproj|solutionrelative:virtualstore.api\\virtualstore.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8258DDCC-69CD-47B0-AEC2-13294DD61AD9}|VirtualStore.IntegrationTests\\VirtualStore.IntegrationTests.csproj|c:\\estudo\\crud-wake\\virtualstore.integrationtests\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8258DDCC-69CD-47B0-AEC2-13294DD61AD9}|VirtualStore.IntegrationTests\\VirtualStore.IntegrationTests.csproj|solutionrelative:virtualstore.integrationtests\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8258DDCC-69CD-47B0-AEC2-13294DD61AD9}|VirtualStore.IntegrationTests\\VirtualStore.IntegrationTests.csproj|c:\\estudo\\crud-wake\\virtualstore.integrationtests\\tests\\produtotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8258DDCC-69CD-47B0-AEC2-13294DD61AD9}|VirtualStore.IntegrationTests\\VirtualStore.IntegrationTests.csproj|solutionrelative:virtualstore.integrationtests\\tests\\produtotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8258DDCC-69CD-47B0-AEC2-13294DD61AD9}|VirtualStore.IntegrationTests\\VirtualStore.IntegrationTests.csproj|c:\\estudo\\crud-wake\\virtualstore.integrationtests\\infra\\webappfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8258DDCC-69CD-47B0-AEC2-13294DD61AD9}|VirtualStore.IntegrationTests\\VirtualStore.IntegrationTests.csproj|solutionrelative:virtualstore.integrationtests\\infra\\webappfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8258DDCC-69CD-47B0-AEC2-13294DD61AD9}|VirtualStore.IntegrationTests\\VirtualStore.IntegrationTests.csproj|c:\\estudo\\crud-wake\\virtualstore.integrationtests\\base\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8258DDCC-69CD-47B0-AEC2-13294DD61AD9}|VirtualStore.IntegrationTests\\VirtualStore.IntegrationTests.csproj|solutionrelative:virtualstore.integrationtests\\base\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33ACAA2-DF76-4699-9964-FD9791A0BD30}|VirtualStore.API\\VirtualStore.API.csproj|c:\\estudo\\crud-wake\\virtualstore.api\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33ACAA2-DF76-4699-9964-FD9791A0BD30}|VirtualStore.API\\VirtualStore.API.csproj|solutionrelative:virtualstore.api\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C33ACAA2-DF76-4699-9964-FD9791A0BD30}|VirtualStore.API\\VirtualStore.API.csproj|c:\\estudo\\crud-wake\\virtualstore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -73,10 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2F99195E-AF79-48EF-8C9C-D217C10F9695}|VirtualStore.Application\\VirtualStore.Application.csproj|c:\\estudo\\crud-wake\\virtualstore.application\\contracts\\iprodutoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F99195E-AF79-48EF-8C9C-D217C10F9695}|VirtualStore.Application\\VirtualStore.Application.csproj|solutionrelative:virtualstore.application\\contracts\\iprodutoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{04B5A9FB-E5D1-4FF1-BF05-068C66F4B71B}|VirtualStore.Infrastructure\\VirtualStore.Infrastructure.csproj|c:\\estudo\\crud-wake\\virtualstore.infrastructure\\virtualstore.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{04B5A9FB-E5D1-4FF1-BF05-068C66F4B71B}|VirtualStore.Infrastructure\\VirtualStore.Infrastructure.csproj|solutionrelative:virtualstore.infrastructure\\virtualstore.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,42 +94,98 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TestBase.cs",
-              "DocumentMoniker": "C:\\Estudo\\crud-wake\\VirtualStore.IntegrationTests\\Base\\TestBase.cs",
-              "RelativeDocumentMoniker": "VirtualStore.IntegrationTests\\Base\\TestBase.cs",
-              "ToolTip": "C:\\Estudo\\crud-wake\\VirtualStore.IntegrationTests\\Base\\TestBase.cs",
-              "RelativeToolTip": "VirtualStore.IntegrationTests\\Base\\TestBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T01:14:37.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "ProdutoTest.cs",
               "DocumentMoniker": "C:\\Estudo\\crud-wake\\VirtualStore.IntegrationTests\\Tests\\ProdutoTest.cs",
               "RelativeDocumentMoniker": "VirtualStore.IntegrationTests\\Tests\\ProdutoTest.cs",
               "ToolTip": "C:\\Estudo\\crud-wake\\VirtualStore.IntegrationTests\\Tests\\ProdutoTest.cs",
               "RelativeToolTip": "VirtualStore.IntegrationTests\\Tests\\ProdutoTest.cs",
-              "ViewState": "AQIAADcAAAAAAAAAAAAqwFMAAAAxAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAUwEAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T00:56:56.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T00:56:56.061Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "VirtualStore.IntegrationTests",
+              "DocumentIndex": 0,
+              "Title": "VirtualStoreServiceTests.cs",
+              "DocumentMoniker": "C:\\Estudo\\crud-wake\\TestProject1\\VirtualStoreServiceTests.cs",
+              "RelativeDocumentMoniker": "TestProject1\\VirtualStoreServiceTests.cs",
+              "ToolTip": "C:\\Estudo\\crud-wake\\TestProject1\\VirtualStoreServiceTests.cs",
+              "RelativeToolTip": "TestProject1\\VirtualStoreServiceTests.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T22:22:44.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VirtualStore.API.csproj",
+              "DocumentMoniker": "C:\\Estudo\\crud-wake\\VirtualStore.API\\VirtualStore.API.csproj",
+              "RelativeDocumentMoniker": "VirtualStore.API\\VirtualStore.API.csproj",
+              "ToolTip": "C:\\Estudo\\crud-wake\\VirtualStore.API\\VirtualStore.API.csproj",
+              "RelativeToolTip": "VirtualStore.API\\VirtualStore.API.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwBoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-25T21:47:38.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VirtualStore.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Estudo\\crud-wake\\VirtualStore.Infrastructure\\VirtualStore.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "VirtualStore.Infrastructure\\VirtualStore.Infrastructure.csproj",
+              "ToolTip": "C:\\Estudo\\crud-wake\\VirtualStore.Infrastructure\\VirtualStore.Infrastructure.csproj",
+              "RelativeToolTip": "VirtualStore.Infrastructure\\VirtualStore.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-25T21:48:18.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VirtualStore.IntegrationTests.csproj",
               "DocumentMoniker": "C:\\Estudo\\crud-wake\\VirtualStore.IntegrationTests\\VirtualStore.IntegrationTests.csproj",
               "RelativeDocumentMoniker": "VirtualStore.IntegrationTests\\VirtualStore.IntegrationTests.csproj",
               "ToolTip": "C:\\Estudo\\crud-wake\\VirtualStore.IntegrationTests\\VirtualStore.IntegrationTests.csproj",
               "RelativeToolTip": "VirtualStore.IntegrationTests\\VirtualStore.IntegrationTests.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-26T00:56:17.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T00:56:17.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebAppFactory.cs",
+              "DocumentMoniker": "C:\\Estudo\\crud-wake\\VirtualStore.IntegrationTests\\Infra\\WebAppFactory.cs",
+              "RelativeDocumentMoniker": "VirtualStore.IntegrationTests\\Infra\\WebAppFactory.cs",
+              "ToolTip": "C:\\Estudo\\crud-wake\\VirtualStore.IntegrationTests\\Infra\\WebAppFactory.cs",
+              "RelativeToolTip": "VirtualStore.IntegrationTests\\Infra\\WebAppFactory.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:43:14.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TestBase.cs",
+              "DocumentMoniker": "C:\\Estudo\\crud-wake\\VirtualStore.IntegrationTests\\Base\\TestBase.cs",
+              "RelativeDocumentMoniker": "VirtualStore.IntegrationTests\\Base\\TestBase.cs",
+              "ToolTip": "C:\\Estudo\\crud-wake\\VirtualStore.IntegrationTests\\Base\\TestBase.cs",
+              "RelativeToolTip": "VirtualStore.IntegrationTests\\Base\\TestBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:14:37.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Estudo\\crud-wake\\VirtualStore.API\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "VirtualStore.API\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Estudo\\crud-wake\\VirtualStore.API\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "VirtualStore.API\\Controllers\\ProdutoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T00:45:19.391Z"
             },
             {
               "$type": "Document",
@@ -137,51 +197,11 @@
               "RelativeToolTip": "VirtualStore.IntegrationTests\\GlobalUsings.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T00:55:36.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T00:55:36.401Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "VirtualStore.API.csproj",
-              "DocumentMoniker": "C:\\Estudo\\crud-wake\\VirtualStore.API\\VirtualStore.API.csproj",
-              "RelativeDocumentMoniker": "VirtualStore.API\\VirtualStore.API.csproj",
-              "ToolTip": "C:\\Estudo\\crud-wake\\VirtualStore.API\\VirtualStore.API.csproj",
-              "RelativeToolTip": "VirtualStore.API\\VirtualStore.API.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-25T21:47:38.178Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProdutoController.cs",
-              "DocumentMoniker": "C:\\Estudo\\crud-wake\\VirtualStore.API\\Controllers\\ProdutoController.cs",
-              "RelativeDocumentMoniker": "VirtualStore.API\\Controllers\\ProdutoController.cs",
-              "ToolTip": "C:\\Estudo\\crud-wake\\VirtualStore.API\\Controllers\\ProdutoController.cs",
-              "RelativeToolTip": "VirtualStore.API\\Controllers\\ProdutoController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T00:45:19.391Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "VirtualStoreServiceTests.cs",
-              "DocumentMoniker": "C:\\Estudo\\crud-wake\\TestProject1\\VirtualStoreServiceTests.cs",
-              "RelativeDocumentMoniker": "TestProject1\\VirtualStoreServiceTests.cs",
-              "ToolTip": "C:\\Estudo\\crud-wake\\TestProject1\\VirtualStoreServiceTests.cs",
-              "RelativeToolTip": "TestProject1\\VirtualStoreServiceTests.cs",
-              "ViewState": "AQIAAFMAAAAAAAAAAAAgwCAAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T22:22:44.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Estudo\\crud-wake\\VirtualStore.API\\Program.cs",
               "RelativeDocumentMoniker": "VirtualStore.API\\Program.cs",
@@ -189,12 +209,11 @@
               "RelativeToolTip": "VirtualStore.API\\Program.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAAAAAwAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T00:23:07.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T00:23:07.028Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "DbInit.cs",
               "DocumentMoniker": "C:\\Estudo\\crud-wake\\VirtualStore.Infrastructure\\Database\\DbInit.cs",
               "RelativeDocumentMoniker": "VirtualStore.Infrastructure\\Database\\DbInit.cs",
@@ -202,12 +221,11 @@
               "RelativeToolTip": "VirtualStore.Infrastructure\\Database\\DbInit.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T21:54:49.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T21:54:49.168Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "ProdutoContext.cs",
               "DocumentMoniker": "C:\\Estudo\\crud-wake\\VirtualStore.Infrastructure\\Context\\ProdutoContext.cs",
               "RelativeDocumentMoniker": "VirtualStore.Infrastructure\\Context\\ProdutoContext.cs",
@@ -215,12 +233,11 @@
               "RelativeToolTip": "VirtualStore.Infrastructure\\Context\\ProdutoContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T21:51:03.595Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T21:51:03.595Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "IProdutoRepository.cs",
               "DocumentMoniker": "C:\\Estudo\\crud-wake\\VirtualStore.Infrastructure\\Contracts\\IProdutoRepository.cs",
               "RelativeDocumentMoniker": "VirtualStore.Infrastructure\\Contracts\\IProdutoRepository.cs",
@@ -228,12 +245,11 @@
               "RelativeToolTip": "VirtualStore.Infrastructure\\Contracts\\IProdutoRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T21:54:41.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T21:54:41.907Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "ProdutoRepository.cs",
               "DocumentMoniker": "C:\\Estudo\\crud-wake\\VirtualStore.Infrastructure\\Repository\\ProdutoRepository.cs",
               "RelativeDocumentMoniker": "VirtualStore.Infrastructure\\Repository\\ProdutoRepository.cs",
@@ -241,12 +257,11 @@
               "RelativeToolTip": "VirtualStore.Infrastructure\\Repository\\ProdutoRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T22:27:36.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T22:27:36.26Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "ProdutoService.cs",
               "DocumentMoniker": "C:\\Estudo\\crud-wake\\VirtualStore.Application\\Services\\ProdutoService.cs",
               "RelativeDocumentMoniker": "VirtualStore.Application\\Services\\ProdutoService.cs",
@@ -254,12 +269,11 @@
               "RelativeToolTip": "VirtualStore.Application\\Services\\ProdutoService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T21:50:36.33Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T21:50:36.33Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "20240321182926_Initial.cs",
               "DocumentMoniker": "C:\\Estudo\\crud-wake\\VirtualStore.Infrastructure\\Migrations\\20240321182926_Initial.cs",
               "RelativeDocumentMoniker": "VirtualStore.Infrastructure\\Migrations\\20240321182926_Initial.cs",
@@ -267,12 +281,11 @@
               "RelativeToolTip": "VirtualStore.Infrastructure\\Migrations\\20240321182926_Initial.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T21:54:57.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T21:54:57.683Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "20240321182926_Initial.Designer.cs",
               "DocumentMoniker": "C:\\Estudo\\crud-wake\\VirtualStore.Infrastructure\\Migrations\\20240321182926_Initial.Designer.cs",
               "RelativeDocumentMoniker": "VirtualStore.Infrastructure\\Migrations\\20240321182926_Initial.Designer.cs",
@@ -280,12 +293,11 @@
               "RelativeToolTip": "VirtualStore.Infrastructure\\Migrations\\20240321182926_Initial.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T21:55:12.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T21:55:12.144Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "VirtualStore.Domain.AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Estudo\\crud-wake\\VirtualStore.Domain\\obj\\Debug\\net7.0\\VirtualStore.Domain.AssemblyInfo.cs",
               "RelativeDocumentMoniker": "VirtualStore.Domain\\obj\\Debug\\net7.0\\VirtualStore.Domain.AssemblyInfo.cs",
@@ -293,25 +305,11 @@
               "RelativeToolTip": "VirtualStore.Domain\\obj\\Debug\\net7.0\\VirtualStore.Domain.AssemblyInfo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T21:57:44.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T21:57:44.778Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "VirtualStore.Infrastructure.csproj",
-              "DocumentMoniker": "C:\\Estudo\\crud-wake\\VirtualStore.Infrastructure\\VirtualStore.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "VirtualStore.Infrastructure\\VirtualStore.Infrastructure.csproj",
-              "ToolTip": "C:\\Estudo\\crud-wake\\VirtualStore.Infrastructure\\VirtualStore.Infrastructure.csproj",
-              "RelativeToolTip": "VirtualStore.Infrastructure\\VirtualStore.Infrastructure.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-25T21:48:18.987Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "ProdutoDTO.cs",
               "DocumentMoniker": "C:\\Estudo\\crud-wake\\VirtualStore.Domain\\DTO\\ProdutoDTO.cs",
               "RelativeDocumentMoniker": "VirtualStore.Domain\\DTO\\ProdutoDTO.cs",
@@ -319,12 +317,11 @@
               "RelativeToolTip": "VirtualStore.Domain\\DTO\\ProdutoDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T22:02:00.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T22:02:00.117Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "IProdutoService.cs",
               "DocumentMoniker": "C:\\Estudo\\crud-wake\\VirtualStore.Application\\Contracts\\IProdutoService.cs",
               "RelativeDocumentMoniker": "VirtualStore.Application\\Contracts\\IProdutoService.cs",
@@ -332,8 +329,7 @@
               "RelativeToolTip": "VirtualStore.Application\\Contracts\\IProdutoService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T21:50:04.026Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T21:50:04.026Z"
             }
           ]
         }

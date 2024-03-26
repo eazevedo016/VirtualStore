@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VirtualStore.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9b8f8aab49d6057a5a0528658e600b1a99c7be9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ac556b93f6411a42c71ca914fef5e8e3603f0b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("VirtualStore.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VirtualStore.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
