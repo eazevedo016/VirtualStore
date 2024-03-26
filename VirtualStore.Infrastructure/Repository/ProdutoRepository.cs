@@ -32,60 +32,77 @@ namespace VirtualStore.VirtualStore.Infrastructure.Repository
                 _context.Produto.Update(produto);
                 await _context.SaveChangesAsync();
             }
-            catch (Exception ex)
+            catch (KeyNotFoundException knfd)
             {
-                throw new Exception("Erro ao atualizar o produto.", ex);
+                throw new KeyNotFoundException("Erro ao atualizar o produto.", knfd);
             }
         }
 
         public async Task Delete(Produto produto)
         {
+
             try
             {
                 _context.Produto.Remove(produto);
                 await _context.SaveChangesAsync();
             }
-            catch (Exception ex)
+            catch (KeyNotFoundException knfd)
             {
-                throw new Exception("Erro ao excluir o produto.", ex);
+                throw new KeyNotFoundException("Erro ao excluir o produto.", knfd);
             }
         }
 
         public async Task<List<Produto>> GetAllProdutos()
         {
-            try
-            {
-                return await _context.Produto.ToListAsync();
-            }
-            catch (Exception ex)
-            {
-                throw new Exception("Erro ao obter todos os produtos.", ex);
-            }
+            var produto = await _context.Produto.ToListAsync();
+            if (produto == null)
+                throw new KeyNotFoundException("Produto não encontrado.");
+
+            return produto;
+
         }
+
+        public async Task<List<Produto>> GetByField(string campo, bool ascendente)
+        {
+            IQueryable<Produto> query = _context.Produto;
+
+            switch (campo.ToLower())
+            {
+                case "nome":
+                    query = ascendente ? query.OrderBy(p => p.Nome) : query.OrderByDescending(p => p.Nome);
+                    break;
+                case "estoque":
+                    query = ascendente ? query.OrderBy(p => p.Estoque) : query.OrderByDescending(p => p.Estoque);
+                    break;
+                case "valor":
+                    query = ascendente ? query.OrderBy(p => p.Valor) : query.OrderByDescending(p => p.Valor);
+                    break;
+                default:
+                    throw new ArgumentException("Campo de ordenação inválido.");
+            }
+
+            return await query.ToListAsync();
+        }
+
 
         public async Task<Produto> GetById(int id)
         {
-            try
-            {
-                return await _context.Produto.FindAsync(id);
-            }
-            catch (Exception ex)
-            {
-                throw new Exception("Erro ao obter o produto pelo ID.", ex);
-            }
+
+            var produto = await _context.Produto.FindAsync(id);
+            if (produto == null)
+                throw new KeyNotFoundException("Produto não encontrado.");
+
+            return produto;
+
         }
 
         public async Task<Produto> GetByName(string nome)
         {
-            try
-            {
-                return await _context.Produto.FirstOrDefaultAsync(p => p.Nome == nome);
-            }
-            catch (Exception ex)
-            {
-                throw new Exception("Erro ao obter o produto pelo nome.", ex);
-            }
-        }
+            var produto = await _context.Produto.FirstOrDefaultAsync(p => p.Nome == nome);
+            if (produto == null)
+                throw new KeyNotFoundException("Produto não encontrado.");
 
+            return produto;
+        }
     }
 }

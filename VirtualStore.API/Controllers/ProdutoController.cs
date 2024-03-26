@@ -65,6 +65,26 @@ namespace VirtualStore.VirtualStore.API.Controllers
             return Ok(produtos);
         }
 
+
+        [HttpGet("ordenar")]
+        public async Task<IActionResult> GetProdutosOrdered([FromQuery] string campo, [FromQuery] bool asc = true)
+        {
+            try
+            {
+                var produtos = await _produtoService.GetProdutosOrderByField(campo, asc);
+                return Ok(produtos);
+            }
+            catch (ArgumentException ex)
+            {
+                return BadRequest(ex.Message);
+            }
+            catch (Exception)
+            {
+                return StatusCode(500, "Erro interno ao processar a solicitação");
+            }
+        }
+
+
         [HttpGet("{id}")]
         public async Task<IActionResult> GetProdutoById(int id)
         {
@@ -93,10 +113,11 @@ namespace VirtualStore.VirtualStore.API.Controllers
             {
                 return NotFound("Produto não encontrado");
             }
-            
+            catch (Exception)
+            {
+                return StatusCode(500, "Erro interno ao processar a solicitação");
+            }
+
         }
-
-
-
     }
 }

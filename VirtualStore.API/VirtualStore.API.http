@@ -1,4 +1,4 @@
-﻿@VirtualStore_HostAddress = https://localhost:49863
+﻿@VirtualStore_HostAddress = https://localhost:8080
 
 GET {{VirtualStore_HostAddress}}/api/produto
 

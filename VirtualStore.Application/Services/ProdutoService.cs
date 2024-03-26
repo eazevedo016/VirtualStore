@@ -77,6 +77,19 @@ namespace VirtualStore.VirtualStore.Domain.Services
             }).ToList();
         }
 
+        public async Task<List<ProdutoDTO>> GetProdutosOrderByField(string campo, bool ascendente)
+        {
+            var produtos = await _produtoRepository.GetByField(campo, ascendente);
+            return produtos.Select(p => new ProdutoDTO
+            {
+                Id = p.Id,
+                Nome = p.Nome,
+                Estoque = p.Estoque,
+                Valor = p.Valor
+            }).ToList();
+        }
+
+
         public async Task<ProdutoDTO> GetProdutoById(int id)
         {
             var produto = await _produtoRepository.GetById(id);
@@ -96,11 +109,11 @@ namespace VirtualStore.VirtualStore.Domain.Services
 
         public async Task<ProdutoDTO> GetProdutoByName(string nome)
         {
+           
+            
             var produto = await _produtoRepository.GetByName(nome);
             if (produto == null)
-            {
-                throw new KeyNotFoundException("Produto não encontrado.");
-            }
+                throw new KeyNotFoundException();
 
             return new ProdutoDTO
             {
@@ -109,6 +122,8 @@ namespace VirtualStore.VirtualStore.Domain.Services
                 Estoque = produto.Estoque,
                 Valor = produto.Valor
             };
+            
+            
         }
 
 
