@@ -10,6 +10,7 @@ C:\Estudo\crud-wake\VirtualStore.Application\obj\Debug\net7.0\VirtualStore.Appli
 C:\Estudo\crud-wake\VirtualStore.Application\obj\Debug\net7.0\VirtualStore.Application.AssemblyInfoInputs.cache
 C:\Estudo\crud-wake\VirtualStore.Application\obj\Debug\net7.0\VirtualStore.Application.AssemblyInfo.cs
 C:\Estudo\crud-wake\VirtualStore.Application\obj\Debug\net7.0\VirtualStore.Application.csproj.CoreCompileInputs.cache
+C:\Estudo\crud-wake\VirtualStore.Application\obj\Debug\net7.0\VirtualStore.Application.sourcelink.json
 C:\Estudo\crud-wake\VirtualStore.Application\obj\Debug\net7.0\VirtualS.9B45DF9A.Up2Date
 C:\Estudo\crud-wake\VirtualStore.Application\obj\Debug\net7.0\VirtualStore.Application.dll
 C:\Estudo\crud-wake\VirtualStore.Application\obj\Debug\net7.0\refint\VirtualStore.Application.dll

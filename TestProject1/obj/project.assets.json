@@ -8029,9 +8029,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Estudo\\crud-wake\\TestProject1\\VirtualStore.Tests.csproj",
-      "projectName": "VirtualStore.Tests",
-      "projectPath": "C:\\Estudo\\crud-wake\\TestProject1\\VirtualStore.Tests.csproj",
+      "projectUniqueName": "C:\\Estudo\\crud-wake\\TestProject1\\VirtualStore.UnitTests.csproj",
+      "projectName": "VirtualStore.UnitTests",
+      "projectPath": "C:\\Estudo\\crud-wake\\TestProject1\\VirtualStore.UnitTests.csproj",
       "packagesPath": "C:\\Users\\easantos\\.nuget\\packages\\",
       "outputPath": "C:\\Estudo\\crud-wake\\TestProject1\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zFdS+wP9TAJYr1B6v0rkc6icIWpTRP9OeXwEIhXIRjxJ/5AJ1DZg/k9XjmtTXqWeQn7JVb6vKmybBDYu/5KTiA==",
+  "dgSpecHash": "Fc9Kl214bZTzP0dcx4p1zAeydGNaph6graSyPJtX9EM2xB53v06fPJ7aZ8vd9EuM8LMl2CvzCTby7vbAU162RQ==",
   "success": true,
-  "projectFilePath": "C:\\Estudo\\crud-wake\\TestProject1\\VirtualStore.Tests.csproj",
+  "projectFilePath": "C:\\Estudo\\crud-wake\\TestProject1\\VirtualStore.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\easantos\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\easantos\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -68,6 +68,7 @@ C:\Estudo\crud-wake\VirtualStore.API\obj\Debug\net7.0\VirtualStore.API.AssemblyI
 C:\Estudo\crud-wake\VirtualStore.API\obj\Debug\net7.0\VirtualStore.API.csproj.CoreCompileInputs.cache
 C:\Estudo\crud-wake\VirtualStore.API\obj\Debug\net7.0\VirtualStore.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Estudo\crud-wake\VirtualStore.API\obj\Debug\net7.0\VirtualStore.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Estudo\crud-wake\VirtualStore.API\obj\Debug\net7.0\VirtualStore.API.sourcelink.json
 C:\Estudo\crud-wake\VirtualStore.API\obj\Debug\net7.0\staticwebassets.build.json
 C:\Estudo\crud-wake\VirtualStore.API\obj\Debug\net7.0\staticwebassets.development.json
 C:\Estudo\crud-wake\VirtualStore.API\obj\Debug\net7.0\staticwebassets\msbuild.VirtualStore.API.Microsoft.AspNetCore.StaticWebAssets.props

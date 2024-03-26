@@ -1,0 +1,6 @@
+{
+  "VirtualStore.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Estudo\\crud-wake\\VirtualStore.API",
+  "VirtualStore.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Estudo\\crud-wake\\VirtualStore.Application",
+  "VirtualStore.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Estudo\\crud-wake\\VirtualStore.Domain",
+  "VirtualStore.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Estudo\\crud-wake\\VirtualStore.Infrastructure"
+}
