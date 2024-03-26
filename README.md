@@ -29,6 +29,8 @@ A aplicação foi desenvolvida em 6 camadas:
 ## Requisitos para executar a aplicação
 
 
+- docker run -d -p 8080:80 --name VirtuSotoreContainer VirtualStore
+
 
 ## Visão do CRUD
 A documentação da API foi consolidada utilizando o Swagger. Através dele é possível testar quaisquer métodos que a API expõe. 
