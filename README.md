@@ -5,7 +5,7 @@ Desafio técnico da Wake Tech para demonstrar conhecimentos no processo de anál
 
 A "VirtualStore" é uma API fictícia que simula um backend de produtos em uma loja, contendo operações básicas relacionadas a um produto, tais como criação, captura, atualização e deleção.
 
-Trata-se de um projeto ASP.NET core no qual foi utilizado a versão 7 do .NET conjuntamente com EntityFramework como facilitador para operações no banco de dados, utilizando a abordagem "Code-First" para criação do modelo de banco de dados. O banco de dados escolhido foi o SQL Server.
+Trata-se de um projeto ASP.NET core no qual foi utilizado a versão 7 do .NET conjuntamente com EntityFramework como facilitador para operações no banco de dados, utilizando a abordagem "Code-First" para criação do modelo de banco de dados. O banco de dados escolhido foi o Postgres.
 
 O projeto foi desenvolvido utilizando boas práticas de desenvolvimento, bem como padrões de projeto que são essenciais para uma boa estruturação e legibilidade da aplicação, como SOLID e Design Patterns.
 
@@ -35,22 +35,6 @@ A aplicação foi desenvolvida em 6 camadas:
 ```
 git clone https://github.com/eazevedo016/VirtualStore.git
 ```
-
-- Após o clone, abra com uma IDE de sua preferência o arquivo de extensão ".sln", que representa a solution da aplicação.
-
-- Pelo terminal, navegue até a pasta \VirtualStore.API e após isso execute o seguinte comando para buildar o projeto.
-
-```
-dotnet build
-```
-
-- Após a finalização do build, execute o comando de start do projeto.
-
-```
-dotnet run
-```
-
-
 
 
 ## Visão do CRUD

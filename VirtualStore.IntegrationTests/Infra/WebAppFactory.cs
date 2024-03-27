@@ -2,12 +2,7 @@
 using Microsoft.AspNetCore.Mvc.Testing;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
-using System;
-using System.Collections.Generic;
 using System.Data.Common;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using VirtualStore.VirtualStore.Infrastructure.Context;
 
 namespace VirtualStore.IntegrationTests.Infra
@@ -31,7 +26,7 @@ namespace VirtualStore.IntegrationTests.Infra
                 services.Remove(dbConnectionDescriptor);
                 services.AddDbContext<ProdutoContext>((container, options) =>
                 {
-                    options.UseSqlServer("Server=SPWBRJ142QM0S;Database=VirtualStoreDB;Integrated Security=True;TrustServerCertificate=True;");
+                    options.UseNpgsql("Host=localhost;Database=VirtualStoreDB;Username=postgres;Password=admin;CommandTimeout=120;");
                 });
             });
             builder.UseEnvironment("Development");
