@@ -12,14 +12,15 @@ namespace VirtualStore.VirtualStore.Infrastructure.Context
 
         public ProdutoContext()
         {
-         
+
         }
         public DbSet<Produto> Produto { get; set; }
+
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
 
-            
+
         }
 
 
