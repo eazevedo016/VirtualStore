@@ -28,14 +28,22 @@ A aplicação foi desenvolvida em 6 camadas:
 
 ## Requisitos para executar a aplicação
 
-- Certifique-se de ter a SDK7 instalado na sua máquina. Caso queira fazer o download, acesse o link https://dotnet.microsoft.com/pt-br/download/dotnet/7.0 .
+- Certifique-se de ter a SDK7 instalado na sua máquina e também o Docker. Caso queira fazer o download, acesse o link https://dotnet.microsoft.com/pt-br/download/dotnet/7.0 .
 
 - Para clonar este repositório, execute o seguinte comando em seu terminal:
 
 ```
 git clone https://github.com/eazevedo016/VirtualStore.git
 ```
+- Abra o projeto em uma IDE de sua preferência, abra o terminal e navegue até o projeto "VirtualStore.API"
 
+- Execute o seguinte comando:
+
+```
+docker compose build
+```
+
+- Agora é só acessar o Swagger disponível através da URL: http://localhost:8080/swagger/index.html
 
 ## Visão do CRUD
 
