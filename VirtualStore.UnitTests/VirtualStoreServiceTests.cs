@@ -163,7 +163,7 @@ namespace VirtualStore.UnitTests
 
 
         [Fact]
-        public void AddProduto_WithNegativeValue_ThrowsArgumentException()
+        public async Task AddProduto_WithNegativeValue_ThrowsArgumentException()
         {
             // Arrange
             var produtoDTO = new ProdutoDTO
@@ -174,7 +174,7 @@ namespace VirtualStore.UnitTests
             };
 
             // Act & Assert
-            Assert.ThrowsAsync<ArgumentException>(() => _produtoService.AddProduto(produtoDTO));
+            await Assert.ThrowsAsync<ArgumentException>(() => _produtoService.AddProduto(produtoDTO));
         }
 
 

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "DHMMPAwm9sJIYFZMDznSpLe+BbFR6Affwd0boCfp4eRrV1bJ1hAgPHHDahbNy2NpeWPoRDst6VrFzwqxfpKBXg==",
+  "dgSpecHash": "77eeBDmyXxxHQFIe/b8VgvK7bRT8IEUKs2xOV5mTW2a7eHIX3LDtgeaLu1rVdCA4USBjJM7DafjxeAkW6/uKdA==",
   "success": true,
   "projectFilePath": "C:\\Estudo\\crud-wake\\VirtualStore.Infrastructure\\VirtualStore.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -41,6 +41,8 @@
     "C:\\Users\\easantos\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\easantos\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\easantos\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\easantos\\.nuget\\packages\\npgsql\\7.0.6\\npgsql.7.0.6.nupkg.sha512",
+    "C:\\Users\\easantos\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\7.0.11\\npgsql.entityframeworkcore.postgresql.7.0.11.nupkg.sha512",
     "C:\\Users\\easantos\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\easantos\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.1\\system.configuration.configurationmanager.6.0.1.nupkg.sha512",
     "C:\\Users\\easantos\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
@@ -64,7 +66,14 @@
     "C:\\Users\\easantos\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\easantos\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
     "C:\\Users\\easantos\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\easantos\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+    "C:\\Users\\easantos\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\easantos\\.nuget\\packages\\xunit\\2.7.0\\xunit.2.7.0.nupkg.sha512",
+    "C:\\Users\\easantos\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\easantos\\.nuget\\packages\\xunit.analyzers\\1.11.0\\xunit.analyzers.1.11.0.nupkg.sha512",
+    "C:\\Users\\easantos\\.nuget\\packages\\xunit.assert\\2.7.0\\xunit.assert.2.7.0.nupkg.sha512",
+    "C:\\Users\\easantos\\.nuget\\packages\\xunit.core\\2.7.0\\xunit.core.2.7.0.nupkg.sha512",
+    "C:\\Users\\easantos\\.nuget\\packages\\xunit.extensibility.core\\2.7.0\\xunit.extensibility.core.2.7.0.nupkg.sha512",
+    "C:\\Users\\easantos\\.nuget\\packages\\xunit.extensibility.execution\\2.7.0\\xunit.extensibility.execution.2.7.0.nupkg.sha512"
   ],
   "logs": []
 }
