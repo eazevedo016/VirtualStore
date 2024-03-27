@@ -40,7 +40,7 @@ git clone https://github.com/eazevedo016/VirtualStore.git
 - Execute o seguinte comando:
 
 ```
-docker compose build
+docker compose up
 ```
 
 - Agora é só acessar o Swagger disponível através da URL: http://localhost:8080/swagger/index.html
